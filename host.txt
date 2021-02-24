@@ -1,1 +1,1 @@
-https://secretmangaapi.azurewebsites.net/
+https://secretmangaapi.azurewebsites.net
